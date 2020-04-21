@@ -75,3 +75,11 @@ span {
 	background-color: #ccc;
 	margin: 50px auto;
 }
+
+@media screen and (min-width: 600px) {
+	color: blue;
+	background-color: white;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: 300;
+}
