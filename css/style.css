@@ -145,62 +145,62 @@ span {
 
 #navigation {
 	text-align: center;
-	font-family: palantino;
-	padding: 2px;
+	font-family: roboto;
+	padding: 20px;
 }
 
 #summary {
-	background-color: #D3D3D3;
+	background-color: #BC8F8F;
 }
 
 h1 {
-	color: red;
-	background-color: white;
-	font-family: monospace;
+	color: ;
+	background-color: #C0C0C0;
+	font-family: times;
 	text-align: center;
-	font-weight: 100;
-	font-weight: 100;
+	font-weight: 500;
+	font-weight: 500;
 	box-sizing: border-box;
-	font-size: 1em;
-	padding: 2px 2px 2px 2px;
-	margin: 1px 1px;
-	width: 15%;
-	border: 1px solid blue;
+	font-size: 3em;
+	padding: 10px 10px 10px 10px;
+	margin: 5px 5px;
+	width: 35%;
+	border: 2px solid green;
 	overflow: hidden;
-	border-radius: 15% 15%;
+	border-radius: 50% 50%;
 }
 
 h3 {
-	background-color: white;
-	font-family: florence;
-	padding: 2px;
+	background-color: #DAA520;
+	font-family: courier;
+	padding: 1px;
 }
 
 p {
-	border: 1px solid red;
-	padding: 1px;
-	margin: 0;
+	border: 5px solid blue;
+	padding: 10px;
+	margin: 5;
 }
 
 .sect-one {
-  background-color: white;
-  border: 1px solid black;
+  background-color: #FFC0CB;
+  border: 5px solid red;
   font-size: 1em;
 }
 
 .first-para {
-  color: black;
-  font-size: 15px;
-  background-color: white;
+  color: #4169E1;
+  font-size: 20px;
+  background-color: #E6E6FA;
 }
 
 .sec-para {
-  color: black;
+  color: #006400;
   font-size: 1em;
-  font-style: impact;
-  background-color: white;
+  font-style: arial;
+  background-color: #00CED1;
 }
 
 span {
-	color: black;
+	color: green;
 }
