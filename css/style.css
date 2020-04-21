@@ -132,7 +132,7 @@ p {
 .sec-para {
   color: black;
   font-size: 1em;
-  font-style: impact;
+  font-style: roboto;
   background-color: white;
 }
 
@@ -154,7 +154,7 @@ span {
 }
 
 h1 {
-	color: ;
+	color: green;
 	background-color: #C0C0C0;
 	font-family: times;
 	text-align: center;
@@ -179,7 +179,7 @@ h3 {
 p {
 	border: 5px solid blue;
 	padding: 10px;
-	margin: 5;
+	margin: 0;
 }
 
 .sect-one {
@@ -197,10 +197,11 @@ p {
 .sec-para {
   color: #006400;
   font-size: 1em;
-  font-style: arial;
+  font-style: roboto;
   background-color: #00CED1;
 }
 
 span {
 	color: green;
+}
 }
