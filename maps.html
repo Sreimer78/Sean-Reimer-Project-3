@@ -8,7 +8,8 @@
     <title>Google Maps</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="cssreset" href="css/reset.css">
-    <script src="js/script.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    <script async type="text/javascript" src="js/script.js"></script>
   </head>
 
   <body>
@@ -19,9 +20,8 @@
 	  <span><a href = "#">Google Maps</a>
     </nav>
   
-    <div id="map"></div>
-    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"
-    async defer></script>
+    <div id="map">
+	    <div id="canvas"></div>
   </body>
 </html>
   
