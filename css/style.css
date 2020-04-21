@@ -77,9 +77,81 @@ span {
 }
 
 @media screen and (min-width: 600px) {
+	
+	.sect-one {
 	color: blue;
 	background-color: white;
-	font-family: sans-serif;
+	font-family: sans serif;
 	text-align: center;
 	font-weight: 300;
+	font-weight: 200;
+	box-sizing: border-box;
+	font-size: 2em;
+	padding: 5px 5px 5px 5px;
+	margin: 1px 1px;
+	width: 20%;
+	border: 1px solid red;
+	overflow: hidden;
+	border-radius: 25% 25%;
+	]
+}
+
+@media screen and (min-width: 768px) {
+	
+	.sect-one {
+	color: blue;
+	background-color: white;
+	font-family: sans serif;
+	text-align: center;
+	font-weight: 300;
+	font-weight: 200;
+	box-sizing: border-box;
+	font-size: 2em;
+	padding: 5px 5px 5px 5px;
+	margin: 1px 1px;
+	width: 20%;
+	border: 1px solid red;
+	overflow: hidden;
+	border-radius: 25% 25%;
+	]
+}
+
+@media screen and (min-width: 992px) {
+	
+	.sect-one {
+	color: blue;
+	background-color: white;
+	font-family: sans serif;
+	text-align: center;
+	font-weight: 300;
+	font-weight: 200;
+	box-sizing: border-box;
+	font-size: 2em;
+	padding: 5px 5px 5px 5px;
+	margin: 1px 1px;
+	width: 20%;
+	border: 1px solid red;
+	overflow: hidden;
+	border-radius: 25% 25%;
+	]
+}
+
+@media screen and (min-width: 1200px) {
+	
+	.sect-one {
+	color: blue;
+	background-color: white;
+	font-family: sans serif;
+	text-align: center;
+	font-weight: 300;
+	font-weight: 200;
+	box-sizing: border-box;
+	font-size: 2em;
+	padding: 5px 5px 5px 5px;
+	margin: 1px 1px;
+	width: 20%;
+	border: 1px solid red;
+	overflow: hidden;
+	border-radius: 25% 25%;
+	]
 }
