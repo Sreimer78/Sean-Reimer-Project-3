@@ -61,15 +61,19 @@ span {
 	font-weight: bold;
 }
 
-
 #map {
-  height: 100%;
+	width: 850px;
+	height: 600px;
+	background-color: #c00;
+	margin:0 auto;
+	overflow: hidden;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+#canvas {
+	width: 700px;
+	height: 500px;
+	background-color: #ccc;
+	margin: 30px auto;
 }
 
 
