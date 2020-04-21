@@ -61,23 +61,17 @@ span {
 	font-weight: bold;
 }
 
-#map {
-	width: 850px;
-	height: 600px;
-	background-color: #c00;
+#map-border {
+	width: 1000px;
+	height: 1000px;
+	background-color: #000000;
 	margin:0 auto;
 	overflow: hidden;
 }
 
-#canvas {
-	width: 700px;
-	height: 500px;
+#map {
+	width: 900px;
+	height: 900px;
 	background-color: #ccc;
-	margin: 30px auto;
+	margin: 50px auto;
 }
-
-
-
-
-
-	
