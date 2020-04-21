@@ -132,7 +132,7 @@ p {
 .sec-para {
   color: black;
   font-size: 1em;
-  font-style: cursive;
+  font-family: cursive;
   background-color: white;
 }
 
@@ -197,7 +197,7 @@ p {
 .sec-para {
   color: #006400;
   font-size: 1em;
-  font-style: cursive;
+  font-family: cursive;
   background-color: #00CED1;
 }
 
